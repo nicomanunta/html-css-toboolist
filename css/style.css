@@ -54,6 +54,11 @@ hr{
 }
 ul{
     list-style: none;
+    padding: 10px;
+}
+li{
+    padding: 8px 0px;
+    font-size: 20px;
 }
 .bottone-editorial{
     color: white;
@@ -114,4 +119,7 @@ ul{
     height: 25px;
     font-size: 10px;
 
+}
+.liste{
+    padding-top: 25px;
 }
